@@ -1,0 +1,10 @@
+numpy==1.22.0
+opencv-python==4.10.0.84
+torch==2.4.1
+onnxruntime==1.19.2
+ultralytics==8.2.98
+xml
+tqdm
+time
+os
+argparse
